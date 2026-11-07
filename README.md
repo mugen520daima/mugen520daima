@@ -16,9 +16,9 @@
 
 ## 🚀 About Me
 
-- 🔭 正在做：**AI Agent / RAG 应用 / 游戏 QA 自动化**
-- 🌱 正在学：编译器构建、LLM 应用工程化、Agent 编排
-- 💼 技术方向：`Python` · `Java` · `C++` · `TypeScript`
+- 🔭 正在做：**AI Agent / 后端RD / 游戏 QA**
+- 🌱 正在学：测试提效
+- 💼 技术方向：`Python` · `Java` · `C++`
 - 🎮 兴趣：二次元番剧与游戏，喜欢把爱好写进工具里
 
 ---
