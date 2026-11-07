@@ -112,6 +112,32 @@ TypeScript 实现的 QA 智能体，覆盖测试编排与自动化检查。
 
 ---
 
+## 🖼️ Wallpaper Gallery
+
+<div align="center">
+<table>
+<tr>
+<td align="center">
+<img src="https://raw.githubusercontent.com/mugen520daima/mugen520daima/main/assets/gallery/g1.jpg" height="340" alt="star-eyes close-up"/><br>
+<b>星星眼特写</b><br>
+<i>粉毛兽耳 · 满眼都是星星 ✨</i>
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/mugen520daima/mugen520daima/main/assets/gallery/g2.jpg" height="340" alt="angels of delusion street"/><br>
+<b>街角的小失落</b><br>
+<i>绝区零 · Angels of Delusion</i>
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/mugen520daima/mugen520daima/main/assets/gallery/g3.jpg" height="340" alt="angels of delusion collage"/><br>
+<b>拼贴风壁纸</b><br>
+<i>绝区零 · Angels of Delusion</i>
+</td>
+</tr>
+</table>
+</div>
+
+---
+
 ## 🐍 Contribution Snake
 
 <div align="center">
