@@ -1,0 +1,22 @@
+<svg width="500" height="200" viewBox="0 0 500 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="500" height="200" rx="10" fill="#0d1117"/>
+  <rect x="0.5" y="0.5" width="499" height="199" rx="9.5" stroke="#f472b6" stroke-opacity="0.35"/>
+  <text x="28" y="38" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#f472b6" letter-spacing="1.5">LEETCODE WEEKLY CONTEST</text>
+  <text x="28" y="92" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="34" font-weight="800" fill="#e6edf3">1,893</text>
+  <text x="28" y="116" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#8b949e">竞赛分数 · Contest Rating</text>
+  <g transform="translate(158,62)">
+    <path d="M14 2 L26 6 V15 C26 23 21 28 14 30 C7 28 2 23 2 15 V6 Z" fill="#2ea043" fill-opacity="0.18" stroke="#2ea043" stroke-width="1.6"/>
+    <path d="M8 15 L12.5 19.5 L20 11" stroke="#2ea043" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+    <text x="34" y="14" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#2ea043">Knight</text>
+    <text x="34" y="30" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#8b949e">当前段位</text>
+  </g>
+  <line x1="28" y1="132" x2="472" y2="132" stroke="#21262d" stroke-width="1"/>
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif">
+    <text x="28" y="152" font-size="11" fill="#8b949e">全球排名</text>
+    <text x="28" y="176" font-size="16" font-weight="700" fill="#e6edf3">42,866 <tspan font-size="11" font-weight="400" fill="#8b949e">/ 902,556</tspan></text>
+    <text x="190" y="152" font-size="11" fill="#8b949e">全国排名</text>
+    <text x="190" y="176" font-size="16" font-weight="700" fill="#e6edf3">10,451 <tspan font-size="11" font-weight="400" fill="#8b949e">/ 155,532</tspan></text>
+    <text x="352" y="152" font-size="11" fill="#8b949e">Top</text>
+    <text x="352" y="176" font-size="16" font-weight="700" fill="#f472b6">6.66%</text>
+  </g>
+</svg>

@@ -14,6 +14,21 @@
 
 ---
 
+## 🧮 LeetCode 刷题
+
+<div align="center">
+
+<a href="https://leetcode.cn/u/chi-wan-liao-he-zhong-xia-ye/">
+<img src="https://leetcard.jacoblin.cool/chi-wan-liao-he-zhong-xia-ye?theme=dark&border=0&radius=10&site=cn" alt="LeetCode solved stats"/>
+</a>
+<a href="https://leetcode.cn/u/chi-wan-liao-he-zhong-xia-ye/">
+<img src="https://raw.githubusercontent.com/mugen520daima/mugen520daima/main/assets/lc_contest.svg" alt="LeetCode weekly contest ranking"/>
+</a>
+
+</div>
+
+---
+
 ## 🚀 About Me
 
 - 🔭 正在做：**AI Agent / 后端RD / 游戏 QA**
@@ -39,21 +54,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mugen520daima&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117&title_color=f472b6)](https://github.com/mugen520daima)
 
 [![Trophy](https://github-profile-trophy.vercel.app/?username=mugen520daima&theme=dracula&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 🧮 LeetCode 刷题
-
-<div align="center">
-
-<a href="https://leetcode.cn/u/chi-wan-liao-he-zhong-xia-ye/">
-<img src="https://leetcard.jacoblin.cool/chi-wan-liao-he-zhong-xia-ye?theme=dark&border=0&radius=10&site=cn" alt="LeetCode solved stats"/>
-</a>
-<a href="https://leetcode.cn/u/chi-wan-liao-he-zhong-xia-ye/">
-<img src="https://leetcard.jacoblin.cool/chi-wan-liao-he-zhong-xia-ye?theme=dark&border=0&radius=10&site=cn&ext=contest" alt="LeetCode contest rating"/>
-</a>
 
 </div>
 
