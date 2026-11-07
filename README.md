@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/mugen520daima/mugen520daima/main/assets/gallery/g2.jpg" width="100%" alt="banner"/>
+<img src="https://raw.githubusercontent.com/mugen520daima/mugen520daima/main/assets/gallery/g2.jpg" width="330" alt="banner"/>
 
 <br><br>
 
