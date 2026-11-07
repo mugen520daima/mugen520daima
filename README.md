@@ -1,7 +1,4 @@
 <div align="center">
-
-<br><br>
-
 <img src="https://raw.githubusercontent.com/mugen520daima/mugen520daima/main/assets/mugen_avatar.png" width="110" alt="mugen"/>
 
 ### Hi 大家好，我是 **mugen520daima** 👋
