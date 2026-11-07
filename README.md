@@ -44,6 +44,21 @@
 
 ---
 
+## 🧮 LeetCode 刷题
+
+<div align="center">
+
+<a href="https://leetcode.cn/u/chi-wan-liao-he-zhong-xia-ye/">
+<img src="https://leetcard.jacoblin.cool/chi-wan-liao-he-zhong-xia-ye?theme=dark&border=0&radius=10&site=cn" alt="LeetCode solved stats"/>
+</a>
+<a href="https://leetcode.cn/u/chi-wan-liao-he-zhong-xia-ye/">
+<img src="https://leetcard.jacoblin.cool/chi-wan-liao-he-zhong-xia-ye?theme=dark&border=0&radius=10&site=cn&ext=contest" alt="LeetCode contest rating"/>
+</a>
+
+</div>
+
+---
+
 ## 🔥 Featured Projects
 
 <table>
