@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/mugen520daima/mugen520daima/main/assets/banner.png" width="100%" alt="banner"/>
+<img src="https://raw.githubusercontent.com/mugen520daima/mugen520daima/main/assets/gallery/g2.jpg" width="100%" alt="banner"/>
 
 <br><br>
 
@@ -97,7 +97,7 @@ TypeScript 实现的 QA 智能体，覆盖测试编排与自动化检查。
 <table>
 <tr>
 <td align="center">
-<img src="https://raw.githubusercontent.com/mugen520daima/mugen520daima/main/assets/qiansha.png" height="260" alt="qiansha"/><br>
+<img src="https://raw.githubusercontent.com/mugen520daima/mugen520daima/main/assets/gallery/g2.jpg" height="260" alt="qiansha"/><br>
 <b>千夏 Chixia</b><br>
 <i>绝区零 Zenless Zone Zero</i>
 </td>
@@ -120,7 +120,7 @@ TypeScript 实现的 QA 智能体，覆盖测试编排与自动化检查。
 <td align="center">
 <img src="https://raw.githubusercontent.com/mugen520daima/mugen520daima/main/assets/gallery/g1.jpg" height="340" alt="star-eyes close-up"/><br>
 <b>星星眼特写</b><br>
-<i>粉毛兽耳 · 满眼都是星星 ✨</i>
+<i>瑶 · 满眼都是星星 ✨</i>
 </td>
 <td align="center">
 <img src="https://raw.githubusercontent.com/mugen520daima/mugen520daima/main/assets/gallery/g2.jpg" height="340" alt="angels of delusion street"/><br>
