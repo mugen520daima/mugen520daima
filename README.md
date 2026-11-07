@@ -57,21 +57,21 @@
 <td width="50%">
 
 ### 🐈 [neko-compiler](https://github.com/mugen520daima/neko-compiler)
-自研编译器项目：词法 / 语法 / 语义 / 代码生成全链路实现。
+二次元主题商城项目
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🧪 [QA-agent](https://github.com/mugen520daima/QA-agent)
-TypeScript 实现的 QA 智能体，覆盖测试编排与自动化检查。
+### 🧪 [langchain-agent-money](https://github.com/mugen520daima/langchain-agent-money)
+可嵌入微信的基金助手demo开发中
 
 </td>
 <td width="50%">
 
-### 📝 [code-review-agent](https://github.com/mugen520daima/code-review-agent)
-代码评审 Agent，辅助发现安全与质量问题。
+### 📝 [review-skill](https://github.com/mugen520daima/code-review-agent/tree/main)
+以游戏QA角度评测测试用例
 
 </td>
 </tr>
