@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/mugen520daima/mugen520daima/main/assets/mugen_avatar.png" width="110" alt="mugen"/>
@@ -49,57 +50,69 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 [weak-network-simulator](https://github.com/mugen520daima/weak-network-simulator)
-**弱网模拟工具** — 基于 WinDivert 的可视化弱网测试工具，支持弱网 / 网络切换 / 断网重连三大场景，Web UI 操作。
+<h3 align="center">
+<a href="https://github.com/mugen520daima/weak-network-simulator">🌐 weak-network-simulator</a>
+</h3>
 
-`Python` `Flask` `WinDivert`
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/WinDivert-0078D4?style=flat-square&logo=windows&logoColor=white" />
+</p>
 
-</td>
-<td width="50%" valign="top">
-
-### 🤖 [langchain-rag-ACG-agent](https://github.com/mugen520daima/-langchain-rag-ACG-agent)
-**二次元角色智能体** — 基于 LangChain + RAG 让喜欢的角色"活"在对话里。
-
-`Python` `LangChain` `RAG`
-
-</td>
-
-<td width="50%" valign="top">
-
-### 💰 [langchain-agent-money](https://github.com/mugen520daima/langchain-agent-money)
-**基金助手** — 可嵌入微信的基金分析 Agent（开发中）。
-
-`Python` `LangChain` `WeChat`
+**弱网模拟工具** — 基于 WinDivert 的可视化弱网测试工具。  
+支持 **弱网 / 网络切换 / 断网重连** 三大场景，提供 Web UI 实时操作与数据统计。
 
 </td>
 <td width="50%" valign="top">
 
-### 🐈 [neko-compiler](https://github.com/mugen520daima/neko-compiler)
-**二次元主题商城** — Java 全栈商城项目。
+<h3 align="center">
+<a href="https://github.com/mugen520daima/-langchain-rag-ACG-agent">🤖 langchain-rag-ACG-agent</a>
+</h3>
 
-`Java`
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG-FF6F00?style=flat-square&logoColor=white" />
+</p>
+
+**二次元角色智能体** — 基于 LangChain + RAG 构建，让你喜欢的 ACG 角色「活」在对话里，实现个性化角色扮演交互。
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">
+<a href="https://github.com/mugen520daima/langchain-agent-money">💰 langchain-agent-money</a>
+</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/WeChat-07C160?style=flat-square&logo=wechat&logoColor=white" />
+</p>
+
+**基金助手 Agent** — 可嵌入微信的智能基金分析 Agent，基于 LangChain 实现自然语言查询与投资分析。
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">
+<a href="https://github.com/mugen520daima/neko-compiler">🐈 neko-compiler</a>
+</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+</p>
+
+**二次元主题商城** — Java 全栈电商项目，二次元风格界面设计，完整的商品管理与交易流程。
 
 </td>
 </tr>
 </table>
 </div>
-
-<details>
-<summary>📂 更多项目（点击展开）</summary>
-
-| 项目 | 简介 | 技术栈 |
-|------|------|--------|
-| [interview-helper](https://github.com/mugen520daima/interview-helper) | 面试助手工具 | — |
-| [-weller](https://github.com/mugen520daima/-weller) | 游戏物品/日志自动化检查工具 | Python |
-| [test_skill](https://github.com/mugen520daima/test_skill) | 测试技能练习 | Python |
-| [rag_demo](https://github.com/mugen520daima/rag_demo) | RAG 检索增强生成示例 | Python |
-| [agent_demo](https://github.com/mugen520daima/agent_demo) | Agent 基础 Demo | — |
-| [ordersystem](https://github.com/mugen520daima/ordersystem) | 比赛项目·点餐系统 | Vue |
-| [ordersystemJava](https://github.com/mugen520daima/ordersystemJava) | 点餐系统后端 | Java |
-| [Tlias-](https://github.com/mugen520daima/Tlias-) | 智能学习辅助管理系统 | Java |
-| [-](https://github.com/mugen520daima/-) | 力扣刷题记录 | C++ |
-
-</details>
 
 ---
 
@@ -138,7 +151,8 @@
 
 <div align="center">
 
-![snake](https://github.com/mugen520daima/mugen520daima/raw/output/github-contribution-grid-snake.svg)
+![snake](https://github.com/mugen520daima/mugen520daima/raw/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![snake](https://github.com/mugen520daima/mugen520daima/raw/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 </div>
 
