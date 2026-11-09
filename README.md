@@ -63,26 +63,7 @@
 `Python` `LangChain` `RAG`
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
 
-### 🕵️ [code-review-agent](https://github.com/mugen520daima/code-review-agent)
-**代码审查智能体** — 以游戏 QA 角度自动评测测试用例质量。
-
-`Agent` `Code Review`
-
-</td>
-<td width="50%" valign="top">
-
-### 🎯 [QA-agent](https://github.com/mugen520daima/QA-agent)
-**QA 智能体** — 面向游戏测试的自动化 Agent。
-
-`TypeScript` `Agent`
-
-</td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 💰 [langchain-agent-money](https://github.com/mugen520daima/langchain-agent-money)
