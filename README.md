@@ -1,4 +1,5 @@
 <div align="center">
+
 <img src="https://raw.githubusercontent.com/mugen520daima/mugen520daima/main/assets/mugen_avatar.png" width="110" alt="mugen"/>
 
 ### Hi 大家好，我是 **mugen520daima** 👋
@@ -41,106 +42,110 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mugen520daima&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117&title_color=f472b6&icon_color=e879f9)](https://github.com/mugen520daima)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mugen520daima&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117&title_color=f472b6)](https://github.com/mugen520daima)
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=mugen520daima&theme=dracula&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## 🔥 Featured Projects
 
+<div align="center">
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🤖 [langchain-rag-ACG-agent](https://github.com/mugen520daima/-langchain-rag-ACG-agent)
-基于 LangChain + RAG 的二次元角色智能体，让喜欢的角色"活"在对话里。
+### 🌐 [weak-network-simulator](https://github.com/mugen520daima/weak-network-simulator)
+**弱网模拟工具** — 基于 WinDivert 的可视化弱网测试工具，支持弱网 / 网络切换 / 断网重连三大场景，Web UI 操作。
+
+`Python` `Flask` `WinDivert`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🐈 [neko-compiler](https://github.com/mugen520daima/neko-compiler)
-二次元主题商城项目
+### 🤖 [langchain-rag-ACG-agent](https://github.com/mugen520daima/-langchain-rag-ACG-agent)
+**二次元角色智能体** — 基于 LangChain + RAG 让喜欢的角色"活"在对话里。
+
+`Python` `LangChain` `RAG`
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🧪 [langchain-agent-money](https://github.com/mugen520daima/langchain-agent-money)
-可嵌入微信的基金助手demo开发中
+### 🕵️ [code-review-agent](https://github.com/mugen520daima/code-review-agent)
+**代码审查智能体** — 以游戏 QA 角度自动评测测试用例质量。
+
+`Agent` `Code Review`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 📝 [review-skill](https://github.com/mugen520daima/code-review-agent/tree/main)
-以游戏QA角度评测测试用例
+### 🎯 [QA-agent](https://github.com/mugen520daima/QA-agent)
+**QA 智能体** — 面向游戏测试的自动化 Agent。
+
+`TypeScript` `Agent`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💰 [langchain-agent-money](https://github.com/mugen520daima/langchain-agent-money)
+**基金助手** — 可嵌入微信的基金分析 Agent（开发中）。
+
+`Python` `LangChain` `WeChat`
+
+</td>
+<td width="50%" valign="top">
+
+### 🐈 [neko-compiler](https://github.com/mugen520daima/neko-compiler)
+**二次元主题商城** — Java 全栈商城项目。
+
+`Java`
 
 </td>
 </tr>
 </table>
+</div>
 
 <details>
-<summary>📂 其他项目（点击展开）</summary>
+<summary>📂 更多项目（点击展开）</summary>
 
-- [rag_demo](https://github.com/mugen520daima/rag_demo) — RAG 检索增强生成示例
-- [langchain-agent-money](https://github.com/mugen520daima/langchain-agent-money) — LangChain Agent 实践
-- [agent_demo](https://github.com/mugen520daima/agent_demo) — Agent 基础 Demo
-- [Tlias-](https://github.com/mugen520daima/Tlias-) — Java 智能学习辅助系统
-- [-weller](https://github.com/mugen520daima/-weller) — 游戏物品/日志自动化检查工具（Python）
-- [-](https://github.com/mugen520daima/-) — 力扣刷题记录（C++）
+| 项目 | 简介 | 技术栈 |
+|------|------|--------|
+| [interview-helper](https://github.com/mugen520daima/interview-helper) | 面试助手工具 | — |
+| [-weller](https://github.com/mugen520daima/-weller) | 游戏物品/日志自动化检查工具 | Python |
+| [test_skill](https://github.com/mugen520daima/test_skill) | 测试技能练习 | Python |
+| [rag_demo](https://github.com/mugen520daima/rag_demo) | RAG 检索增强生成示例 | Python |
+| [agent_demo](https://github.com/mugen520daima/agent_demo) | Agent 基础 Demo | — |
+| [ordersystem](https://github.com/mugen520daima/ordersystem) | 比赛项目·点餐系统 | Vue |
+| [ordersystemJava](https://github.com/mugen520daima/ordersystemJava) | 点餐系统后端 | Java |
+| [Tlias-](https://github.com/mugen520daima/Tlias-) | 智能学习辅助管理系统 | Java |
+| [-](https://github.com/mugen520daima/-) | 力扣刷题记录 | C++ |
 
 </details>
 
 ---
 
-## 🎮 推しコーナー
+## 🎮 推しギャラリー
 
 <div align="center">
 <table>
 <tr>
-<td align="center">
-<img src="https://raw.githubusercontent.com/mugen520daima/mugen520daima/main/assets/gallery/g2.jpg" height="260" alt="qiansha"/><br>
+<td align="center" width="200">
+<img src="https://raw.githubusercontent.com/mugen520daima/mugen520daima/main/assets/gallery/g2.jpg" height="240" alt="qiansha"/><br>
 <b>千夏 Chixia</b><br>
-<i>绝区零 Zenless Zone Zero</i>
+<sub>绝区零 Zenless Zone Zero</sub>
 </td>
-<td align="center">
-<img src="https://raw.githubusercontent.com/mugen520daima/mugen520daima/main/assets/mugen.png" height="260" alt="mugen"/><br>
+<td align="center" width="200">
+<img src="https://raw.githubusercontent.com/mugen520daima/mugen520daima/main/assets/mugen.png" height="240" alt="mugen"/><br>
 <b>木更 Kimi</b><br>
-<i>契约之吻 Engage Kiss</i>
+<sub>契约之吻 Engage Kiss</sub>
 </td>
-</tr>
-</table>
-</div>
-
----
-
-## 🖼️ Wallpaper Gallery
-
-<div align="center">
-<table>
-<tr>
-<td align="center">
-<img src="https://raw.githubusercontent.com/mugen520daima/mugen520daima/main/assets/gallery/g1.jpg" height="340" alt="star-eyes close-up"/><br>
-<b>星星眼特写</b><br>
-<i>瑶 · 满眼都是星星 ✨</i>
+<td align="center" width="200">
+<img src="https://raw.githubusercontent.com/mugen520daima/mugen520daima/main/assets/gallery/g1.jpg" height="240" alt="star-eyes"/><br>
+<b>瑶 · 星星眼 ✨</b><br>
+<sub>满眼都是星星</sub>
 </td>
-<td align="center">
-<img src="https://raw.githubusercontent.com/mugen520daima/mugen520daima/main/assets/gallery/g2.jpg" height="340" alt="angels of delusion street"/><br>
-<b>街角的小失落</b><br>
-<i>绝区零 · Angels of Delusion</i>
-</td>
-<td align="center">
-<img src="https://raw.githubusercontent.com/mugen520daima/mugen520daima/main/assets/gallery/g3.jpg" height="340" alt="angels of delusion collage"/><br>
+<td align="center" width="200">
+<img src="https://raw.githubusercontent.com/mugen520daima/mugen520daima/main/assets/gallery/g3.jpg" height="240" alt="collage"/><br>
 <b>拼贴风壁纸</b><br>
-<i>绝区零 · Angels of Delusion</i>
+<sub>绝区零 · Angels of Delusion</sub>
 </td>
 </tr>
 </table>
@@ -160,7 +165,7 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=mugen520daima&color=f472b6&style=flat-round&label=Profile+Views" alt="visitors"/>
+<img src="https://komarev.com/ghpvc/?username=mugen520daima&color=f472b6&style=flat-square&label=Profile+Views" alt="visitors"/>
 
 <i>Thanks for visiting ⭐ if you like my projects!</i>
 
