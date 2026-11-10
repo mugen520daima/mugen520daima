@@ -30,7 +30,7 @@
 
 - 🔭 正在做：**AI Agent / 后端RD / 游戏 QA**
 - 🌱 正在学：测试提效
-- 💼 技术方向：`Python` · `Java` · `C++`
+- 💼 技术方向：`Python（agent、提效工具）` · `Java（后端项目）` · `C++（刷题、学习游戏中）`
 - 🎮 兴趣：二次元番剧与游戏，喜欢把爱好写进工具里
 
 ---
@@ -38,7 +38,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,ts,html,css,mysql,git,github,vscode,idea,linux&theme=dark" alt="tech stack"/>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,mysql,git,github,vscode,idea,linux&theme=dark" alt="tech stack"/>
 </p>
 
 ---
