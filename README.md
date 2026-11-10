@@ -6,6 +6,8 @@
 ### 瓦达西 **weller** 👋
 
 > 技术宅男拯救世界
+</div>
+<div align="center">
 > PLAY：王者荣耀、绝区零、鸣潮、三角洲、三国杀、原神（半退游）、火影忍者、无畏契约
 </div>
 
@@ -131,12 +133,12 @@
 </td>
 <td align="center" width="200">
 <img src="https://raw.githubusercontent.com/mugen520daima/mugen520daima/main/assets/gallery/g1.jpg" height="240" alt="star-eyes"/><br>
-<b>瑶 · 星星眼 ✨</b><br>
-<sub>满眼都是星星</sub>
+<b>瑶 ✨</b><br>
+<sub>王者荣耀</sub>
 </td>
 <td align="center" width="200">
 <img src="https://raw.githubusercontent.com/mugen520daima/mugen520daima/main/assets/gallery/g3.jpg" height="240" alt="collage"/><br>
-<b>拼贴风壁纸</b><br>
+<b>千夏</b><br>
 <sub>绝区零 · Angels of Delusion</sub>
 </td>
 </tr>
