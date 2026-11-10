@@ -56,8 +56,6 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/WinDivert-0078D4?style=flat-square&logo=windows&logoColor=white" />
 </p>
 
 **弱网模拟工具** — 基于 WinDivert 的可视化弱网测试工具。  
