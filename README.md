@@ -3,9 +3,9 @@
 
 <img src="https://raw.githubusercontent.com/mugen520daima/mugen520daima/main/assets/mugen_avatar.png" width="110" alt="mugen"/>
 
-### Hi 大家好，我是 **mugen520daima** 👋
+### 瓦达西 **weller** 👋
 
-> 白天写代码，晚上看番 ｜ 技术宅男拯救世界
+> 技术宅男拯救世界
 
 </div>
 
